@@ -1,0 +1,14 @@
+C:\Users\ESQIN\OneDrive\İş masası\Upcasting2\Upcastin2\Upcastin2\obj\Debug\netcoreapp3.1\Upcastin2.csproj.AssemblyReference.cache
+C:\Users\ESQIN\OneDrive\İş masası\Upcasting2\Upcastin2\Upcastin2\obj\Debug\netcoreapp3.1\Upcastin2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESQIN\OneDrive\İş masası\Upcasting2\Upcastin2\Upcastin2\obj\Debug\netcoreapp3.1\Upcastin2.AssemblyInfoInputs.cache
+C:\Users\ESQIN\OneDrive\İş masası\Upcasting2\Upcastin2\Upcastin2\obj\Debug\netcoreapp3.1\Upcastin2.AssemblyInfo.cs
+C:\Users\ESQIN\OneDrive\İş masası\Upcasting2\Upcastin2\Upcastin2\obj\Debug\netcoreapp3.1\Upcastin2.csproj.CoreCompileInputs.cache
+C:\Users\ESQIN\OneDrive\İş masası\Upcasting2\Upcastin2\Upcastin2\bin\Debug\netcoreapp3.1\Upcastin2.exe
+C:\Users\ESQIN\OneDrive\İş masası\Upcasting2\Upcastin2\Upcastin2\bin\Debug\netcoreapp3.1\Upcastin2.deps.json
+C:\Users\ESQIN\OneDrive\İş masası\Upcasting2\Upcastin2\Upcastin2\bin\Debug\netcoreapp3.1\Upcastin2.runtimeconfig.json
+C:\Users\ESQIN\OneDrive\İş masası\Upcasting2\Upcastin2\Upcastin2\bin\Debug\netcoreapp3.1\Upcastin2.runtimeconfig.dev.json
+C:\Users\ESQIN\OneDrive\İş masası\Upcasting2\Upcastin2\Upcastin2\bin\Debug\netcoreapp3.1\Upcastin2.dll
+C:\Users\ESQIN\OneDrive\İş masası\Upcasting2\Upcastin2\Upcastin2\bin\Debug\netcoreapp3.1\Upcastin2.pdb
+C:\Users\ESQIN\OneDrive\İş masası\Upcasting2\Upcastin2\Upcastin2\obj\Debug\netcoreapp3.1\Upcastin2.dll
+C:\Users\ESQIN\OneDrive\İş masası\Upcasting2\Upcastin2\Upcastin2\obj\Debug\netcoreapp3.1\Upcastin2.pdb
+C:\Users\ESQIN\OneDrive\İş masası\Upcasting2\Upcastin2\Upcastin2\obj\Debug\netcoreapp3.1\Upcastin2.genruntimeconfig.cache

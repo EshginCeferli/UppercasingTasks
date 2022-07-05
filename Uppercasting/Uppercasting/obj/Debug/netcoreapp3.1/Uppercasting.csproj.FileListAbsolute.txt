@@ -1,0 +1,14 @@
+C:\Users\ESQIN\OneDrive\İş masası\C#\Upcasting.Enums.Lesson\Uppercasting\Uppercasting\bin\Debug\netcoreapp3.1\Uppercasting.exe
+C:\Users\ESQIN\OneDrive\İş masası\C#\Upcasting.Enums.Lesson\Uppercasting\Uppercasting\bin\Debug\netcoreapp3.1\Uppercasting.deps.json
+C:\Users\ESQIN\OneDrive\İş masası\C#\Upcasting.Enums.Lesson\Uppercasting\Uppercasting\bin\Debug\netcoreapp3.1\Uppercasting.runtimeconfig.json
+C:\Users\ESQIN\OneDrive\İş masası\C#\Upcasting.Enums.Lesson\Uppercasting\Uppercasting\bin\Debug\netcoreapp3.1\Uppercasting.runtimeconfig.dev.json
+C:\Users\ESQIN\OneDrive\İş masası\C#\Upcasting.Enums.Lesson\Uppercasting\Uppercasting\bin\Debug\netcoreapp3.1\Uppercasting.dll
+C:\Users\ESQIN\OneDrive\İş masası\C#\Upcasting.Enums.Lesson\Uppercasting\Uppercasting\bin\Debug\netcoreapp3.1\Uppercasting.pdb
+C:\Users\ESQIN\OneDrive\İş masası\C#\Upcasting.Enums.Lesson\Uppercasting\Uppercasting\obj\Debug\netcoreapp3.1\Uppercasting.csproj.AssemblyReference.cache
+C:\Users\ESQIN\OneDrive\İş masası\C#\Upcasting.Enums.Lesson\Uppercasting\Uppercasting\obj\Debug\netcoreapp3.1\Uppercasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESQIN\OneDrive\İş masası\C#\Upcasting.Enums.Lesson\Uppercasting\Uppercasting\obj\Debug\netcoreapp3.1\Uppercasting.AssemblyInfoInputs.cache
+C:\Users\ESQIN\OneDrive\İş masası\C#\Upcasting.Enums.Lesson\Uppercasting\Uppercasting\obj\Debug\netcoreapp3.1\Uppercasting.AssemblyInfo.cs
+C:\Users\ESQIN\OneDrive\İş masası\C#\Upcasting.Enums.Lesson\Uppercasting\Uppercasting\obj\Debug\netcoreapp3.1\Uppercasting.csproj.CoreCompileInputs.cache
+C:\Users\ESQIN\OneDrive\İş masası\C#\Upcasting.Enums.Lesson\Uppercasting\Uppercasting\obj\Debug\netcoreapp3.1\Uppercasting.dll
+C:\Users\ESQIN\OneDrive\İş masası\C#\Upcasting.Enums.Lesson\Uppercasting\Uppercasting\obj\Debug\netcoreapp3.1\Uppercasting.pdb
+C:\Users\ESQIN\OneDrive\İş masası\C#\Upcasting.Enums.Lesson\Uppercasting\Uppercasting\obj\Debug\netcoreapp3.1\Uppercasting.genruntimeconfig.cache
